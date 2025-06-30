@@ -1,2 +1,3 @@
-# bitNathan.github.io
-My personal resume/portfolio website.
+# Resume Website
+
+_Personal resume/portfolio website_
